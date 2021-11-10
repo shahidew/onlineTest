@@ -1,4 +1,4 @@
-package ir.project.demo;
+package ir.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
